@@ -1,0 +1,14 @@
+{
+    "name": "LoneStar.Graph.Base.Runtime",
+    "rootNamespace": "LoneStar.Graph.Base.Runtime",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,20 @@
+{
+    "name": "LoneStar.Graph.GameFlow.Editor",
+    "rootNamespace": "LoneStar.Graph.GameFlow.Editor",
+    "references": [
+        "LoneStar.Graph.Base.Editor",
+        "LoneStar.Graph.Base.Runtime",
+        "LoneStar.Graph.GameFlow.Runtime"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

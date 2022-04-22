@@ -1,0 +1,18 @@
+{
+    "name": "LoneStar.Graph.Base.Editor",
+    "rootNamespace": "LoneStar.Graph.Base.Editor",
+    "references": [
+        "GUID:ff13be8eeaad37a40890ae3e011feca2"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

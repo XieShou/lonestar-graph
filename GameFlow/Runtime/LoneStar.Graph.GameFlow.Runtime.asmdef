@@ -1,0 +1,16 @@
+{
+    "name": "LoneStar.Graph.GameFlow.Runtime",
+    "rootNamespace": "LoneStar.Graph.GameFlow.Runtime",
+    "references": [
+        "GUID:ff13be8eeaad37a40890ae3e011feca2"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
